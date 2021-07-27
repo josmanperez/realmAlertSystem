@@ -1,2 +1,3 @@
 realm_config.json
 data_sources/mongodb-atlas/config.json
+.DS_Store
