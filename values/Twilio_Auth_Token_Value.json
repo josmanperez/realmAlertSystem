@@ -1,0 +1,5 @@
+{
+    "name": "Twilio_Auth_Token_Value",
+    "value": "Auth_Token_Twilio",
+    "from_secret": true
+}

@@ -1,0 +1,7 @@
+{
+    "from_secret": false,
+    "name": "Twilio_SID_Value",
+    "value": {
+        "sid": "<<Twilio SID value>>"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "60eec8b068c10fdfa579a7bb",
+    "name": "MonitorAlertsForTriggerMessage",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "INSERT"
+        ],
+        "database": "Logging",
+        "collection": "Alert",
+        "service_name": "mongodb-atlas",
+        "match": {},
+        "project": {},
+        "full_document": true,
+        "full_document_before_change": false,
+        "unordered": true
+    },
+    "function_name": "SendAlertTwilio",
+    "disabled": false
+}

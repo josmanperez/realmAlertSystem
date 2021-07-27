@@ -1,0 +1,40 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "app_id": {
+            "bsonType": "string"
+        },
+        "co_id": {
+            "bsonType": "string"
+        },
+        "completed": {
+            "bsonType": "string"
+        },
+        "error": {
+            "bsonType": "string"
+        },
+        "group_id": {
+            "bsonType": "string"
+        },
+        "processed": {
+            "bsonType": "object",
+            "properties": {
+                "alerted": {
+                    "bsonType": "bool"
+                },
+                "date": {
+                    "bsonType": "date"
+                }
+            }
+        },
+        "refId": {
+            "bsonType": "string"
+        },
+        "started": {
+            "bsonType": "string"
+        }
+    },
+    "title": "Alert"
+}

@@ -1,0 +1,8 @@
+{
+    "from_secret": false,
+    "name": "Twilio_Numbers",
+    "value": {
+        "from": "<<Twilio number>>",
+        "to": "<<Number>>"
+    }
+}

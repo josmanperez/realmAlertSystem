@@ -1,0 +1,10 @@
+{
+    "id": "60e033ae38cb740acd595996",
+    "name": "MonitorLogging",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/2 * * * *"
+    },
+    "function_name": "QueryLogging",
+    "disabled": false
+}

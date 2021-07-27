@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "code": {
+            "bsonType": "string"
+        },
+        "date": {
+            "bsonType": "date"
+        },
+        "message": {
+            "bsonType": "string"
+        },
+        "response": {
+            "bsonType": "string"
+        }
+    },
+    "title": "Error"
+}

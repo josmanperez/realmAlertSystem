@@ -1,0 +1,8 @@
+{
+    "from_secret": false,
+    "name": "Realm_App",
+    "value": {
+        "appId": "<<app_id>>",
+        "groupId": "<<group_id"
+    }
+}

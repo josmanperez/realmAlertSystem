@@ -1,0 +1,37 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "access_token": {
+            "bsonType": "string"
+        },
+        "date": {
+            "bsonType": "date"
+        },
+        "last_modified": {
+            "bsonType": "date"
+        },
+        "message": {
+            "bsonType": "object",
+            "properties": {
+                "access_token": {
+                    "bsonType": "string"
+                },
+                "device_id": {
+                    "bsonType": "string"
+                },
+                "refresh_token": {
+                    "bsonType": "string"
+                },
+                "user_id": {
+                    "bsonType": "string"
+                }
+            }
+        },
+        "refresh_token": {
+            "bsonType": "string"
+        }
+    },
+    "title": "Control"
+}
